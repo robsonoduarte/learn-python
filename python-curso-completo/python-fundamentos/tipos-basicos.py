@@ -20,6 +20,11 @@ a = [1,2,3]
 print(a)
 
 
+#dictionary
+a = {'nome': 'Robson', 'idade': 42}
+print(a)
+
+
 #None
 a = None
 print(a)
