@@ -7,11 +7,11 @@ print( 2 ** 2) # potenciação
 print( 2 % 2) # módulo
 
 #calculando a porcentagem utilizando somente operadores aritmeticos
-salario = 100
-despesas = 45
-percentualDespesas = despesas * 100 / salario
+salario = 3450.45
+despesas = 2456.2
+percentual_despesas = despesas * 100 / salario
 
-print(percentualDespesas) 
+print(percentual_despesas) 
 
 
 
