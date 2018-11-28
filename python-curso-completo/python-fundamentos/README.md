@@ -6,4 +6,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Variáveis](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/variaveis.py)
 * [Comentários](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/comentarios.py)
 * [Operadores Aritimeticos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-aritmeticos.py)
+* [Operadores Relacionais](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-relacionais.py)
 
