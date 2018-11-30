@@ -8,4 +8,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Operadores Aritimeticos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-aritmeticos.py)
 * [Operadores Relacionais](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-relacionais.py)
 * [Operadores de Atribuição](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-atribuicao.py)
+* [Operadores de Lógicos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-logicos.py)
 
