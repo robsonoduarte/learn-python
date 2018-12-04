@@ -9,4 +9,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Operadores Relacionais](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-relacionais.py)
 * [Operadores de Atribuição](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-atribuicao.py)
 * [Operadores Lógicos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-logicos.py)
+* [Operadores Ternários](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-ternarios.py)
 
