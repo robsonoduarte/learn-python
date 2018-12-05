@@ -11,4 +11,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Operadores Lógicos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-logicos.py)
 * [Operadores Ternários](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-ternarios.py)
 * [Operadores Membros/Identidade](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores-membro-identidade.py)
+* [Conversão de Tipos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/conversao-tipos.py)
 
