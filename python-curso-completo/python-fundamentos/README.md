@@ -12,4 +12,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Operadores Ternários](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores_ternarios.py)
 * [Operadores Membros/Identidade](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/operadores_membro_identidade.py)
 * [Conversão de Tipos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/conversao_tipos.py)
+* [Coersão Automatica](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/coersao_automatica.py)
 
