@@ -16,5 +16,3 @@ getcontext().prec = 4 # usando o Decimal para aumentar a precisão
 
 print(Decimal(1) / Decimal(7)) 
 
-
-
