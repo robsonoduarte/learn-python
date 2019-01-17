@@ -14,4 +14,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Conversão de Tipos](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/conversao_tipos.py)
 * [Coersão Automatica](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/coersao_automatica.py)
 * [Números](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/numeros.py)
+* [String](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/string.py)
 
