@@ -44,4 +44,16 @@ frase.upper()
 frase.split()
 frase.split('a')
 
-help(str.center)
+help(str.center) # help para funcões 
+
+# python magic methods https://www.python-course.eu/python3_magic_methods.php
+
+a = "123"
+b = " Duarte "
+a + b
+a.__add__(b)
+str.__add__(a,b)
+len(a)
+a.__len__()
+'1' in a
+a.__contains__('1')
