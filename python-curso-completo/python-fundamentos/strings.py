@@ -34,8 +34,14 @@ numeros[::2] #step de dois em dois
 numeros[1::2] # step apartir do indice 1
 numeros[::-1] # step do final para o inicio
 
- 
+frase = "Python é uma linguagem excelente"
+'py' in frase
+'ing' in frase
+len(frase)
+frase.lower()
+frase.upper()
 
+frase.split()
+frase.split('a')
 
-
-
+help(str.center)
