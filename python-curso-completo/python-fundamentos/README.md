@@ -15,4 +15,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [Coersão Automatica](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/coersao_automatica.py)
 * [Números](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/numeros.py)
 * [String](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/string.py)
+* [Listas](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/listas.py)
 
