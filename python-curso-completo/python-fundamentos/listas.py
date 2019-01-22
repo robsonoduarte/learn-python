@@ -10,3 +10,9 @@ lista.remove(2)
 lista
 lista.reverse()
 lista
+
+lista = [1, 4, "Antonio", "Aparecida", 3.1415]
+lista.index("Aparecida")
+1 in lista
+lista[4]
+lista[-1]
