@@ -17,4 +17,5 @@ Nesse projeto podemos ver os exemplos utilizados na seção 5 do curso sobre os 
 * [String](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/string.py)
 * [Listas](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/listas.py)
 * [Tuplas](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/tuplas.py)
+* [Dicionários](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/python-fundamentos/dicionarios.py)
 
