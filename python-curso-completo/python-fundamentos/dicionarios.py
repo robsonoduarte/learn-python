@@ -1,13 +1,27 @@
-pessoa = {'nome': 'Robson', 'idade': 42, 'cursos': ['Java', 'Python']}
-pessoa
+professor = {'nome': 'Robson', 'idade': 42, 'cursos': ['Java', 'Python']}
+professor
 
-pessoa['nome']
-pessoa['idade']
-pessoa['cursos']
-pessoa['cursos'][0]
+professor['nome']
+professor['idade']
+professor['cursos']
+professor['cursos'][0]
 
-pessoa.keys()
-pessoa.values()
-pessoa.items()
-pessoa.get('idade')
-pessoa.get('tags', '[]')
+professor.keys()
+professor.values()
+professor.items()
+professor.get('idade')
+professor.get('tags', '[]')
+
+professor['idade'] = 44
+professor
+professor['cursos'].append('Scala')
+professor
+
+professor.pop('idade')
+professor
+
+professor.update({'idade': 40, 'Sexo': 'M'})
+professor
+
+professor.clear()
+professor
