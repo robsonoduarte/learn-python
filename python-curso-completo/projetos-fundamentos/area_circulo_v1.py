@@ -1,5 +1,7 @@
-'''
-Created on 19 de fev de 2019
+import math
 
-@author: robson
-'''
+area = math.pi * 3 ** 3
+
+print(area)
+
+
