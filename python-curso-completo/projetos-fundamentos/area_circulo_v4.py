@@ -7,5 +7,6 @@ def circulo(raio):
 
 
 if __name__ == '__main__':
-    area = circulo(sys.argv[1])
-    print('Área do círculo => ', area)
+    if(len(sys.argv)) >= 2:
+        area = circulo(sys.argv[1])
+        print('Área do círculo => ', area)
