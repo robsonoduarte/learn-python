@@ -1,5 +1,4 @@
 from math import pi
-import sys
 
 
 def circulo(raio):
@@ -7,5 +6,5 @@ def circulo(raio):
 
 
 if __name__ == '__main__':
-    area = circulo(sys.argv[1])
+    area = circulo(input("Informe o raio: "))
     print('Área do círculo => ', area)
