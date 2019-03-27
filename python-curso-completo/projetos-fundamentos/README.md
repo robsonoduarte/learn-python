@@ -1,6 +1,0 @@
-# Projetos Fundamentos
-
-**em construção**
-
-
-
