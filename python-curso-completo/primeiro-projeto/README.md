@@ -1,6 +1,3 @@
-# Projetos Fundamentos
+# Primeiro Projeto
 
-**em construção**
-
-
-
+Simples projeto de cálculo de área de uma circunfêrencia.
