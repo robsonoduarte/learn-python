@@ -4,5 +4,5 @@
 > Nesse repositório podemos ver as seções do curso em projetos:
 
 * [Fundamentos do Python](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/python-fundamentos)
-* [Primeiro Projeto](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/python-projeto)
+* [Primeiro Projeto](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/primeiro-projeto)
 * [Estruturas de Controle](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/estruturas-controle)
