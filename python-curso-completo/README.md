@@ -6,3 +6,4 @@
 * [Fundamentos do Python](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/python-fundamentos)
 * [Primeiro Projeto](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/primeiro-projeto)
 * [Estruturas de Controle](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/estruturas-controle)
+* [Segundo Projeto](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/segundo-projeto)
