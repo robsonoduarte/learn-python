@@ -7,3 +7,4 @@
 * [break continue](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/estruturas-controle/break_continue.py)
 * [for else](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/estruturas-controle/for_else.py)
 * [switch](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/estruturas-controle/switch.py)
+* [for sem else](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/estruturas-controle/for_sem_else.py)
