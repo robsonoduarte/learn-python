@@ -1,4 +1,4 @@
-PALAVRAS_PROIBIDAS = ('futebol', 'religião', 'futebol')
+PALAVRAS_PROIBIDAS = ('política', 'religião', 'futebol')
 
 textos = [
     'Pedro gosta de futebol e política',
