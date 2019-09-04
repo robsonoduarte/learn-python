@@ -6,4 +6,5 @@ IO com Python
 * [Try/Finally](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/io/io_v4.py#L2-L8)
 * [With](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/io/io_v5.py#L2)
 * [Escrevendo](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/io/io_v6.py#L3-L6)
-* [Modulo CSV](https://github.com/robsonoduarte/learn-python/blob/master/python-curso-completo/io/io_v7.py#L4)
+* [Modulo CSV](http://files.cod3r.com.br/curso-python/desafio-ibge.csv)
+* [Challenge](http://files.cod3r.com.br/curso-python/desafio-ibge.csv)
