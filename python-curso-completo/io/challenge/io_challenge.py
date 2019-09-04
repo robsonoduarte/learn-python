@@ -1,8 +1,14 @@
 import csv
+from urllib import request
 
-with open('ibge.csv', encoding='ISO-8859-1') as file:
-    reader = csv.DictReader(file)
-    next(reader, None)
-    for line in reader:
-        #print(line['nome_orige'] + line['nome_desti'])
-        print(f'Nome: {line["nome_orige"]}, Idade: {line["nome_desti"]}')
+def read(url):
+    with request.urlopen(url) as file:
+        print("Downloading the csv")
+        data = file.read().decode('latin1')
+        for city in csv.reader(data.splitlines()):
+            print(f'{city[8]} : {city[3]}')    
+
+
+
+if __name__ == "__main__":
+    read(r'http://files.cod3r.com.br/curso-python/desafio-ibge.csv')
