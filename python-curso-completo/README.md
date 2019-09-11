@@ -8,3 +8,4 @@
 * [Estruturas de Controle](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/estruturas-controle)
 * [Segundo Projeto](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/segundo_projeto)
 * [IO](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/io)
+* [List Comprehension](https://github.com/robsonoduarte/learn-python/tree/master/python-curso-completo/list_comprehension)
