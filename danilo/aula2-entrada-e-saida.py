@@ -7,5 +7,4 @@ altura = 1.80
 
 print(nome, 'tem', idade, 'anos e', altura, 'de altura')
 
-#dica use String Interpolation https://www.python.org/dev/peps/pep-0498/
-print(f"{nome} tem {idade} anos e {altura} de altura")
+
